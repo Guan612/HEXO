@@ -78,7 +78,7 @@ music:
     show: 来点BGM？
   autoHide: true    # hide automaticaly
   server: netease   #require	music platform: netease, tencent, kugou, xiami, baidu
-  type: song    #require song, playlist, album, search, artist
+  type: playlist    #require song, playlist, album, search, artist
   id: 1429597845     #require	song id / playlist id / album id / search keyword
   fixed: false       # 开启吸底模式
   autoplay: false   # 是否自动播放
