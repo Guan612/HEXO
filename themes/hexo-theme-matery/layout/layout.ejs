@@ -115,6 +115,11 @@
             document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
         }
         </script>
+
+    <script type="text/javascript">
+        var OriginTitile=document.title,st;document.addEventListener("visibilitychange",function(){document.hidden?(document.title="看不见我~看不见我~",clearTimeout(st)):(document.title="(๑•̀ㅂ•́) ✧被发现了～",st=setTimeout(function(){document.title=OriginTitile},3e3))})
+    </script>
+
 </body>
 
 </html>
