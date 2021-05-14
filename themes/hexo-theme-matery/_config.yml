@@ -66,7 +66,7 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 你的梦想是什么？
+  title: 一言
   text: 梦想无论怎样模糊，总潜伏在我们心底，使我们的心境永远得不到宁静，直到这些梦想成为事实才止；像种子在地下一样，一定要萌芽滋长，伸出地面来，寻找阳光。——林语堂
 
 # Whether to display the musics.
