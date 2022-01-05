@@ -129,3 +129,11 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+bangumi:
+  enable: false
+  vmid: 1234567
+  title: '追番列表'
+  quote: '生命不息，追番不止！'
+  show: 1
+  loading: '/img/bangumi-loading.gif'
